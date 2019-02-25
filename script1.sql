@@ -1,0 +1,2 @@
+--DDL Script
+SELECT * FROM EMPLOYEES;

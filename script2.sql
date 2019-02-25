@@ -1,0 +1,3 @@
+--DML commands 	
+INSERT INTO EMPLOYEE 
+VALUES();
